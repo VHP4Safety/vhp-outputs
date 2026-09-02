@@ -6,3 +6,6 @@ vhp,repo,VHP4Safety/glossary,
 vhp,docker,vhp4safety/virtual-human-platform,
 vhp,rsd,virtual-human-platform,
 vhp,paper,10.14573/altex.2407211,"The Virtual Human Platform, ALTEX 2024"
+tta,paper,10.1080/2833373X.2026.2638036,"ToxTempAssistant: using large language models to standardise cell-based toxicological test method descriptions"
+tta,repo,johannehouweling/ToxTempAssistant,
+tta,rsd,toxtempassistant,
