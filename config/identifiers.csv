@@ -24,3 +24,26 @@ molaop,repo,marvinm2/molAOP-builder,
 molaop,repo,marvinm2/molAOP-analyser,
 molaop,paper,10.3389/fgene.2018.00661,"WikiPathways for AOPs 2018"
 molaop,paper,10.1101/2023.03.02.530766,"Molecular AOPs, bioRxiv 2023"
+bridgedb,repo,bridgedb/datasources,
+bridgedb,repo,bridgedb/BridgeDb,
+bridgedb,repo,bridgedb/BridgeDbWebservice,
+bridgedb,repo,bridgedb/bridgedbjs,
+bridgedb,repo,bridgedb/docker,
+bridgedb,repo,BiGCAT-UM/BridgeDbR,
+bridgedb,package,bioconductor.org/BridgeDbR,
+bridgedb,package,npmjs.org/bridgedb,
+bridgedb,package,repo1.maven.org/org.bridgedb:org.bridgedb.bio,
+bridgedb,docker,bigcatum/bridgedb,
+bridgedb,rsd,bridgedb-java,
+bridgedb,rsd,bridgedb-webservice,
+bridgedb,rsd,bridgedbr,
+bridgedb,paper,10.1186/1471-2105-11-5,"BridgeDb framework, BMC Bioinformatics 2010"
+wikipathways,repo,wikipathways/rWikiPathways,
+wikipathways,repo,wikipathways/pywikipathways,
+wikipathways,repo,wikipathways/wikipathways-database,
+wikipathways,package,bioconductor.org/rWikiPathways,
+wikipathways,package,pypi.org/pywikipathways,
+wikipathways,package,npmjs.org/@wikipathways/pvjs,
+wikipathways,rsd,rwikipathways,
+wikipathways,paper,10.1093/nar/gkad960,NAR 2024
+wikipathways,paper,10.1371/journal.pcbi.1004989,"Semantic Web for WikiPathways 2016"

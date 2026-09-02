@@ -5,3 +5,5 @@ molaop,molAOP Builder and Analyser,"Maps Adverse Outcome Pathway key events onto
 tta,ToxTempAssistant,"ToxTempAssistant helps scientists document cell-based toxicological test methods more efficiently.",TTA,
 robot,ROBOT,"Research Object Builder for Open Toxicology.",ROBOT,
 biodatafuse,pyBiodatafuse,"Queries many biomedical databases at once and merges what comes back into a single knowledge graph, so a gene or compound list can be annotated from all of them in one step.",BDF,biodatafuse.png
+bridgedb,BridgeDb,"Maps identifiers between biological databases, so that one gene or metabolite can be recognised across resources that each name it differently.",BD,bridgedb.png
+wikipathways,WikiPathways,"An open, community-curated pathway database. The department maintains its semantic layer and the clients most people actually use.",WP,wikipathways.svg
