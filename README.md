@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/images/tgx-logo-white.png">
-  <img src="docs/assets/images/tgx-logo.png" alt="Department of Translational Genomics" height="56">
+  <source media="(prefers-color-scheme: dark)" srcset="https://research-software-directory.org/image/rpc/get_image?uid=0ac221604d72ec0dcf235e5fd3d716800e3bc748">
+  <img src="https://research-software-directory.org/image/rpc/get_image?uid=0ac221604d72ec0dcf235e5fd3d716800e3bc748" alt="VHP4Safety" height="56">
 </picture>
 
-# TGX Outputs
+# VHP4Safety Outputs
 
-**[tgx-um.github.io/tgx-outputs](https://tgx-um.github.io/tgx-outputs/)**
+**[vhp4safety.github.io/vhp-outputs](https://vhp4safety.github.io/vhp-outputs/)**
 
 The software, data resources and services the Department of Translational Genomics at
 Maastricht University builds — collected automatically from public sources once a week
