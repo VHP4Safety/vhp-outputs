@@ -9,3 +9,18 @@ vhp,paper,10.14573/altex.2407211,"The Virtual Human Platform, ALTEX 2024"
 tta,paper,10.1080/2833373X.2026.2638036,"ToxTempAssistant: using large language models to standardise cell-based toxicological test method descriptions"
 tta,repo,johannehouweling/ToxTempAssistant,
 tta,rsd,toxtempassistant,
+robot,repo,abhishek-chattopadhyay/robot,
+biodatafuse,repo,BioDataFuse/pyBiodatafuse,
+biodatafuse,repo,BioDataFuse/biodatafuseUI,
+biodatafuse,package,pypi.org/pybiodatafuse,
+biodatafuse,paper,10.1093/bioinformatics/btag064,"pyBiodatafuse, Bioinformatics 2026"
+biodatafuse,paper,10.37044/osf.io/mhsqp,"BioHackEU23 report, BioHackrXiv 2023"
+aopwiki-rdf,repo,marvinm2/AOPWikiRDF,
+aopwiki-rdf,repo,marvinm2/AOP-Wiki-Snorql-UI,
+aopwiki-rdf,repo,marvinm2/AOP-Wiki-RDF-dashboard,
+aopwiki-rdf,paper,10.1089/aivt.2021.0010,"AOP-Wiki RDF, Appl In Vitro Toxicol 2022"
+aopwiki-rdf,paper,10.14573/altex.2307131,"Why AOPs need to be FAIR, ALTEX 2023"
+molaop,repo,marvinm2/molAOP-builder,
+molaop,repo,marvinm2/molAOP-analyser,
+molaop,paper,10.3389/fgene.2018.00661,"WikiPathways for AOPs 2018"
+molaop,paper,10.1101/2023.03.02.530766,"Molecular AOPs, bioRxiv 2023"

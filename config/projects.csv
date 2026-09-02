@@ -3,3 +3,5 @@ vhp,Virtual Human Platform,The VHP4Safety portal: a single entry point to the ch
 aopwiki-rdf,AOP-Wiki RDF,"Converts the AOP-Wiki to RDF, versions every release as its own named graph, and serves it over a public SPARQL endpoint with a query interface and dashboard.",AW,aopwiki-rdf.png
 molaop,molAOP Builder and Analyser,"Maps Adverse Outcome Pathway key events onto molecular pathways, and analyses the resulting molecular AOPs.",MA,molaop.png
 tta,ToxTempAssistant,"ToxTempAssistant helps scientists document cell-based toxicological test methods more efficiently.",TTA,
+robot,ROBOT,"Research Object Builder for Open Toxicology.",ROBOT,
+biodatafuse,pyBiodatafuse,"Queries many biomedical databases at once and merges what comes back into a single knowledge graph, so a gene or compound list can be annotated from all of them in one step.",BDF,biodatafuse.png
