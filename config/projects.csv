@@ -7,3 +7,14 @@ robot,ROBOT,"Research Object Builder for Open Toxicology.",ROBOT,
 biodatafuse,pyBiodatafuse,"Queries many biomedical databases at once and merges what comes back into a single knowledge graph, so a gene or compound list can be annotated from all of them in one step.",BDF,biodatafuse.png
 bridgedb,BridgeDb,"Maps identifiers between biological databases, so that one gene or metabolite can be recognised across resources that each name it differently.",BD,bridgedb.png
 wikipathways,WikiPathways,"An open, community-curated pathway database. The department maintains its semantic layer and the clients most people actually use.",WP,wikipathways.svg
+pathvisio,PathVisio,"Desktop software to draw, edit and visualise biological pathways, and export them to WikiPathways.",PV,pathvisio.png
+arrayanalysis,ArrayAnalysis,"Preprocesses and statistically analyses RNA-sequencing and microarray transcriptomics data.",AA,arrayanalysis.png
+aop-builder,AOP-Builder,"Extracts key scientific entities and their relationships from the literature to help build Adverse Outcome Pathways.",AB,
+aopsuite,AOP-Suite,"A web-based tool for building, visualising and analysing Adverse Outcome Pathway networks.",AS,
+oqt-assistant,O-QT,"An AI assistant that drives the OECD QSAR Toolbox to assess chemical hazards and summarise the results.",OQT,
+mct8-dock,MCT8 Docking,"Predicts how strongly a compound binds the MCT8 thyroid-hormone transporter, using neural-network-enhanced molecular docking.",M8,
+qaop,qAOP-App,"Predicts key events and adverse outcomes over time from ODE-based quantitative Adverse Outcome Pathway models.",QA,
+qsprpred,QSPRpred,"Predicts chemical activity across endpoints using target-specific and pretrained QSAR models.",QSP,
+xploreaop,xploreAOP,"Visualises Adverse Outcome Pathway networks and lets a user explore them interactively.",XA,
+llemy,Llemy,"Answers questions about lipid metabolism and its toxicology using pathway knowledge, live literature search and AI-generated summaries.",LL,
+r-odaf,R-ODAF,"An R Shiny interface for standardised RNA-seq differential-expression analysis in regulatory toxicology.",RO,

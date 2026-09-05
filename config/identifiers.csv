@@ -49,3 +49,20 @@ wikipathways,package,npmjs.org/@wikipathways/pvjs,
 wikipathways,rsd,rwikipathways,
 wikipathways,paper,10.1093/nar/gkad960,NAR 2024
 wikipathways,paper,10.1371/journal.pcbi.1004989,"Semantic Web for WikiPathways 2016"
+pathvisio,repo,PathVisio/pathvisio,
+pathvisio,rsd,pathvisio,
+pathvisio,paper,10.1371/journal.pcbi.1004085,"PathVisio 3, PLOS Comp Biol 2015"
+arrayanalysis,repo,arrayanalysis/ArrayAnalysis_Shiny,
+arrayanalysis,paper,10.1093/nar/gkt293,"ArrayAnalysis.org, NAR 2013"
+aop-builder,repo,vhp4safety/aop-builder,
+aopsuite,repo,vhp4safety/aop-app,
+oqt-assistant,repo,vhp4safety/O-QT-OECD-QSAR-Toolbox-AI-assistant,
+oqt-assistant,paper,10.1016/j.comtox.2025.100395,"O-QT assistant, Computational Toxicology 2026"
+mct8-dock,repo,vhp4safety/MCT8-docking,
+qaop,repo,vhp4safety/qAOP-app,
+qsprpred,repo,vhp4safety/QSPRpred-Docker,
+qsprpred,paper,10.26434/chemrxiv-2025-jr9v7,"QSPRpred, ChemRxiv 2025"
+xploreaop,repo,vhp4safety/xploreaop,
+llemy,repo,ontox-project/Llemy,
+llemy,paper,10.64898/2026.03.10.710813,"Llemy agentic framework, preprint 2026"
+r-odaf,repo,fcaiment/R-ODAF,
