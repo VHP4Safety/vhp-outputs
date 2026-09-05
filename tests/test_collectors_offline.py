@@ -5,6 +5,8 @@ against the live internet cannot be changed with any confidence: you cannot tell
 regression from an upstream outage, and CI fails for reasons nobody controls.
 """
 
+import os
+
 import pytest
 
 from tgx_outputs import config as _cfg
@@ -28,6 +30,12 @@ def http():
 def test_collector_runs_and_produces_defined_metrics(name, http):
     env = run_one(COLLECTORS[name], http)
     assert env.status in {"ok", "degraded"}, f"{name} failed: {env.errors[:2]}"
+    if name == "github" and not env.records and cfg.project_field("repos"):
+        has_token = bool(os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN"))
+        assert has_token, (
+            "config has GitHub repositories but no GITHUB_TOKEN (or GH_TOKEN) is set "
+            "in the environment -- fixtures cannot be recorded without one; see "
+            "CONTRIBUTING.md")
     assert env.records, f"{name} produced no records"
 
     semantics = cfg.semantics()
