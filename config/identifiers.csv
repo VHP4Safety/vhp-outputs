@@ -1,8 +1,8 @@
 project,kind,value,note
-vhp,repo,VHP4Safety/virtual-human-platform,
-vhp,repo,VHP4Safety/cloud,
-vhp,repo,VHP4Safety/ui-casestudy-config,
-vhp,repo,VHP4Safety/glossary,
+vhp,repo,vhp4safety/virtual-human-platform,
+vhp,repo,vhp4safety/cloud,
+vhp,repo,vhp4safety/ui-casestudy-config,
+vhp,repo,vhp4safety/glossary,
 vhp,docker,vhp4safety/virtual-human-platform,
 vhp,rsd,virtual-human-platform,
 vhp,paper,10.14573/altex.2407211,"The Virtual Human Platform, ALTEX 2024"
