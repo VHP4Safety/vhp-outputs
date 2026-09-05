@@ -18,6 +18,8 @@ biodatafuse,paper,10.37044/osf.io/mhsqp,"BioHackEU23 report, BioHackrXiv 2023"
 aopwiki-rdf,repo,marvinm2/AOPWikiRDF,
 aopwiki-rdf,repo,marvinm2/AOP-Wiki-Snorql-UI,
 aopwiki-rdf,repo,marvinm2/AOP-Wiki-RDF-dashboard,
+aopwiki-rdf,repo,marvinm2/aopwiki-snorql-extended,
+aopwiki-rdf,repo,marvinm2/AOPWikiQueries,
 aopwiki-rdf,paper,10.1089/aivt.2021.0010,"AOP-Wiki RDF, Appl In Vitro Toxicol 2022"
 aopwiki-rdf,paper,10.14573/altex.2307131,"Why AOPs need to be FAIR, ALTEX 2023"
 molaop,repo,marvinm2/molAOP-builder,
