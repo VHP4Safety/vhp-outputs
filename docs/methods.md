@@ -75,8 +75,8 @@ with a link back rather than redistributed. If you maintain one of these service
 would rather this project used your data differently, please
 [open an issue](https://github.com/TGX-UM/tgx-outputs/issues/new).
 
-Every URL below can be pasted into a browser — they are all public and none needs a
-key — and the answer you get is the answer this page got. In a diagram, requests are on
+Every URL below can be pasted into a browser - they are all public and none needs a
+key - and the answer you get is the answer this page got. In a diagram, requests are on
 the left, the collector in the middle, the metrics it produced on the right; a box
 marked `×19` is one endpoint asked nineteen times, and `…` marks a segment that varied
 between calls. The literal URLs are in the tables, never abbreviated.

@@ -1,7 +1,7 @@
 # Contributing
 
 Almost every useful change is a row in a table. No Python needed, and every file in
-`config/` is a CSV you can open in a spreadsheet — the columns are documented in
+`config/` is a CSV you can open in a spreadsheet - the columns are documented in
 [`config/README.md`](config/README.md).
 
 ## Add a project
@@ -26,7 +26,7 @@ my-tool,paper,10.1234/example,"My Tool, J Example 2026"
 ```
 
 Anything the project runs goes in `config/services.csv`, and anything worth linking to
-in `config/links.csv` — the first link listed is the first one shown, so put the
+in `config/links.csv` - the first link listed is the first one shown, so put the
 project's own site there.
 
 Then check the identifiers actually resolve:
@@ -52,7 +52,7 @@ list it. To have something removed, open an issue or email the contact in
 ## Correct something upstream got wrong
 
 A row in `config/corrections.csv`, with a reason. Only for metadata a registry has
-plainly wrong — a mangled character in a paper title that Crossref and OpenAlex both
+plainly wrong - a mangled character in a paper title that Crossref and OpenAlex both
 carry, say. It changes no number, and the columns are in
 [`config/README.md`](config/README.md).
 

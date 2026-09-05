@@ -104,4 +104,4 @@ def _summary(rows: list[dict[str, Any]], refreshed: int,
         plural = "" if len(incomplete) == 1 else "s"
         parts.append(f"{len(incomplete)} source{plural} incomplete: "
                      + ", ".join(_describe(r) for r in incomplete))
-    return head + ("" if not parts else " — " + " — ".join(parts))
+    return head + ("" if not parts else " - " + " - ".join(parts))

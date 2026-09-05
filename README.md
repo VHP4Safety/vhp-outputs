@@ -8,7 +8,7 @@
 **[vhp4safety.github.io/vhp-outputs](https://vhp4safety.github.io/vhp-outputs/)**
 
 The software, data resources and services the Department of Translational Genomics at
-Maastricht University builds — collected automatically from public sources once a week
+Maastricht University builds - collected automatically from public sources once a week
 and published as a static page.
 
 That output is spread across nine GitHub organisations, four package registries, a
@@ -16,7 +16,7 @@ handful of SPARQL endpoints and a set of deposited datasets. Nobody could previo
 answer "what did TGX ship this year" without a week of digging, and annual reports,
 grant renewals and consortium reviews all need that answer.
 
-Its shape — a grid of per-source totals over a per-project table — follows
+Its shape - a grid of per-source totals over a per-project table - follows
 [RECETOX/specdatri_reporting](https://github.com/RECETOX/specdatri_reporting) (MIT), which
 solved the same problem for a research infrastructure first. This is an independent
 implementation rather than a fork; see [Prior art](#prior-art).
@@ -30,7 +30,7 @@ releases, packages, containers, running services, and the citations of the paper
 describe each tool.
 
 It is **not** a measure of individuals. There are no per-person pages, counts or
-rankings, and there never will be — no person is queried and no ORCID is stored. Nor
+rankings, and there never will be - no person is queried and no ORCID is stored. Nor
 are there stars, forks, h-indices or journal rankings: every figure names what it
 counts, and the Methods page says what each one does not mean.
 
@@ -74,7 +74,7 @@ flowchart LR
 ```
 
 One GitHub Actions job, weekly, does the whole run: collect, check, build, deploy, then
-commit the snapshot. Deploying in the same job is deliberate — a push made with
+commit the snapshot. Deploying in the same job is deliberate - a push made with
 `GITHUB_TOKEN` does not trigger another workflow, which is how an earlier reporting
 dashboard served a two-month-old page while every run showed green.
 
@@ -104,7 +104,7 @@ over, and rebuilt in five years.
 
 Everything a human edits lives in `config/` as a CSV table, one row per thing, so it
 opens in a spreadsheet and a change reads as a one-line diff. `tgx doctor` validates
-every table in CI — columns, foreign keys, enumerations — so a malformed change fails
+every table in CI - columns, foreign keys, enumerations - so a malformed change fails
 the pull request rather than the next refresh. The columns are documented in
 [`config/README.md`](config/README.md).
 
@@ -123,7 +123,7 @@ asked for.
 They may well be. Every figure links to the CSV behind it and shows the exact source
 and collection date, and the run manifests on the `data` branch record what each source
 returned, what failed and what was quarantined.
-[Open an issue](https://github.com/TGX-UM/tgx-outputs/issues/new) — see
+[Open an issue](https://github.com/TGX-UM/tgx-outputs/issues/new) - see
 [`RUNBOOK.md`](RUNBOOK.md) for what to do when a collector breaks.
 
 ## Prior art
@@ -131,8 +131,8 @@ returned, what failed and what was quarantined.
 Modelled on [RECETOX/specdatri_reporting](https://github.com/RECETOX/specdatri_reporting)
 (MIT), the reporting tool RECETOX built for the same problem. The per-source card grid over
 a per-project table is theirs, and several of the guards here exist because that project met
-the failure first and it was worth turning into a test. No code was copied — this was written
-from scratch — so the debt is one of design, and it is recorded in `CITATION.cff` and
+the failure first and it was worth turning into a test. No code was copied - this was written
+from scratch - so the debt is one of design, and it is recorded in `CITATION.cff` and
 `.zenodo.json` as well as here.
 
 The [Research Software Directory](https://research-software-directory.org) already tracks

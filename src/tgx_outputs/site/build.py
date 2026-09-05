@@ -88,7 +88,7 @@ def figure(name: str, snapshot: dict[str, Any], fresh: dict[str, Any]) -> str:
     if not tables.series(snapshot, metric):
         return (
             f'<div class="tgx-caption" markdown>\n'
-            f'**{spec["label"]} — {MISSING}.** The `{source}` source did not return data '
+            f'**{spec["label"]} - {MISSING}.** The `{source}` source did not return data '
             f'on the last run ({collected}), so this figure is not shown rather than '
             f'drawn from stale or partial values. '
             f'See [collection status](methods.md#collection-status).\n'
@@ -127,7 +127,7 @@ def _freshness_strip(fresh: dict[str, Any], *, table: bool) -> str:
     def got(r: dict[str, Any]) -> str:
         if r["expected"] and r["found"] is not None:
             return f"{r['found']} of {r['expected']} {r['unit']}"
-        return "—" if r["complete"] else "incomplete"
+        return "-" if r["complete"] else "incomplete"
 
     rows = "\n".join(
         f"| `{r['source']}` | {r['status']} | {r['fetched_at'][:10]} | "

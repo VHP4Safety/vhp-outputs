@@ -11,7 +11,7 @@ department's publication record lives in Pure and is reported from there.
 
 - **Source:** [github.com/TGX-UM/tgx-outputs](https://github.com/TGX-UM/tgx-outputs)
 - **Report a wrong number:** [open an issue](https://github.com/TGX-UM/tgx-outputs/issues/new/choose)
-- **Add a project, or have one removed:** a row in a table — see
+- **Add a project, or have one removed:** a row in a table - see
   [CONTRIBUTING.md](https://github.com/TGX-UM/tgx-outputs/blob/main/CONTRIBUTING.md)
 
 The whole site builds offline from recorded fixtures, with no network and no
@@ -64,6 +64,6 @@ travel with it.
 
 ## Citing this
 
-Cite the tools themselves rather than this page — each project's own papers are linked
+Cite the tools themselves rather than this page - each project's own papers are linked
 from its tile. If you need to cite the inventory, the repository carries a
 [`CITATION.cff`](https://github.com/TGX-UM/tgx-outputs/blob/main/CITATION.cff).

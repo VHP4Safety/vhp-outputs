@@ -5,7 +5,7 @@ spreadsheet, in a text editor, or with `csvkit`; a change shows up in review as 
 one-line diff. No Python is involved in adding a project, and a test holds that.
 
 These are normalised tables rather than one wide sheet on purpose. Most of what a
-project has is a list — several repositories, several papers, several links — and a
+project has is a list - several repositories, several papers, several links - and a
 wide sheet can only hold those as semicolon-separated cells that nothing can check.
 
 `tgx doctor` validates all of it: column names, foreign keys, enumerations, and
@@ -14,7 +14,7 @@ request. CI runs the same check.
 
 ---
 
-## `projects.csv` — one row per tracked project
+## `projects.csv` - one row per tracked project
 
 | column | required | what it is |
 |---|---|---|
@@ -26,7 +26,7 @@ request. CI runs the same check.
 
 Row order is the order the tiles appear in.
 
-## `identifiers.csv` — everything a project publishes
+## `identifiers.csv` - everything a project publishes
 
 | column | what it is |
 |---|---|
@@ -37,20 +37,20 @@ Row order is the order the tiles appear in.
 
 What each kind expects:
 
-- **`repo`** — `owner/name` on GitHub. Gives releases, tags and last activity.
-- **`package`** — `registry/name`. Registries: `bioconductor.org`, `pypi.org`,
+- **`repo`** - `owner/name` on GitHub. Gives releases, tags and last activity.
+- **`package`** - `registry/name`. Registries: `bioconductor.org`, `pypi.org`,
   `npmjs.org`, `cran.r-project.org`, `repo1.maven.org` (use `group:artifact`),
   `conda-forge.org`.
-- **`docker`** — Docker Hub `namespace/image`. Gives pull counts. It is the only
+- **`docker`** - Docker Hub `namespace/image`. Gives pull counts. It is the only
   registry that publishes one.
-- **`rsd`** — Research Software Directory slug, from the URL:
+- **`rsd`** - Research Software Directory slug, from the URL:
   `research-software-directory.org/software/<slug>`. Gives papers mentioning the tool.
-  Not registered there? Register it — that is worth more than adding a row here.
-- **`paper`** — DOI of a paper that describes the tool, the kind people cite when they
+  Not registered there? Register it - that is worth more than adding a row here.
+- **`paper`** - DOI of a paper that describes the tool, the kind people cite when they
   use it. Citations come from OpenAlex. **List every update paper**: WikiPathways has
   seven, and counting only the newest understates it several-fold.
 
-## `services.csv` — what the department runs
+## `services.csv` - what the department runs
 
 | column | what it is |
 |---|---|
@@ -61,7 +61,7 @@ What each kind expects:
 
 Nothing about these is measured. They are listed so a reader can reach them.
 
-## `links.csv` — anything else worth clicking
+## `links.csv` - anything else worth clicking
 
 | column | what it is |
 |---|---|
@@ -72,7 +72,7 @@ Nothing about these is measured. They are listed so a reader can reach them.
 Row order is the order shown, and links come before services, so the project's own
 site belongs in the first row. A link with the same URL as a service is shown once.
 
-## `metrics.csv` — what every number counts
+## `metrics.csv` - what every number counts
 
 Nothing appears on the site without a row here, and each source's section on the
 Methods page is generated from this file, so a definition cannot drift from the figure
@@ -85,10 +85,10 @@ it describes.
 | `counts` | what one unit of it counts |
 | `source` | which collector produces it; must be in `collectors.csv` |
 | `cumulative` | `true` for a running total, `false` for a per-period count |
-| `granularity` | `none`, `month` or `year`. Must be `none` when cumulative — a level does not belong to a period |
+| `granularity` | `none`, `month` or `year`. Must be `none` when cumulative - a level does not belong to a period |
 | `caveat` | what the number does **not** mean. Required, and published in this table, which the site offers for download. No longer printed under each figure |
 
-## `collectors.csv` — which sources run
+## `collectors.csv` - which sources run
 
 Disabling a broken source is a one-line change. `cadence_days` drives the freshness
 strip: a source goes amber at twice its cadence and red at five times.
@@ -107,12 +107,12 @@ Each source gets one section on the Methods page built from this row plus what i
 actually did on the last run: what it publishes, the shape of what it asked for, and
 every request in order.
 
-## `settings.csv` — the few single values
+## `settings.csv` - the few single values
 
 `key,value` pairs: who the department is, the contact address, and the Research
 Software Directory endpoint. Keys beginning `rsd_` configure that source.
 
-## `exclusions.csv` — what is left out, and why
+## `exclusions.csv` - what is left out, and why
 
 | column | what it is |
 |---|---|
@@ -125,12 +125,12 @@ optional.
 
 ---
 
-## `corrections.csv` — where upstream is wrong
+## `corrections.csv` - where upstream is wrong
 
 | column | what it is |
 |---|---|
 | `kind` | what is being corrected. Only `paper` so far |
-| `value` | the identifier it applies to — for `paper`, the DOI |
+| `value` | the identifier it applies to - for `paper`, the DOI |
 | `field` | the field to replace. For `paper`, only `title` |
 | `to` | what it should say |
 | `reason` | why, and it is required |

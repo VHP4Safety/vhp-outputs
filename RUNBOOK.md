@@ -1,6 +1,6 @@
 # When something breaks
 
-A collector failing is normal — these are eight third-party APIs and roughly one of them
+A collector failing is normal - these are eight third-party APIs and roughly one of them
 changes something every few months. The pipeline is built so that this degrades
 one section of one page rather than taking the site down, and so that a broken source
 is *visible* rather than quietly serving last month's number.
@@ -32,7 +32,7 @@ The traceback is in the manifest. Common causes, in the order they actually happ
 1. *An upstream response shape changed.* A field was renamed or nested one level
    deeper. Fix the collector, re-record its fixture (`make record`), commit both.
 2. *An endpoint moved or was retired.* Update the URL in the collector, or disable the
-   collector in `config/settings.csv` — that is a one-line change and an honest one. The
+   collector in `config/settings.csv` - that is a one-line change and an honest one. The
    page will say the source is absent rather than pretending.
 3. *A rate limit tightened.* Reduce what the collector asks for, or lengthen its
    `cadence_days`.

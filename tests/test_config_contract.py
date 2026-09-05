@@ -139,7 +139,7 @@ def test_a_correction_replaces_the_upstream_title():
     doi = "10.1021/ci050400b"
     assert cfg.corrected("paper", doi, "title", "The Blue Obelisk?Interop") != \
         "The Blue Obelisk?Interop"
-    assert "—" in cfg.corrected("paper", doi, "title", "x")
+    assert "-" in cfg.corrected("paper", doi, "title", "x")
     # DOIs are quoted in every case upstream; matching must not depend on it.
     assert cfg.corrected("paper", doi.upper(), "title", "x") == \
         cfg.corrected("paper", doi, "title", "x")
