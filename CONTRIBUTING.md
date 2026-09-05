@@ -14,6 +14,9 @@ API. Every tracked repo is public, so a token needs no write access:
 - Repository access: **Public Repositories (read-only)**
 - Permissions: leave everything else at "No access"
 
+Make sure it expires after max 365 days, because various repositories do not allow
+unlimited expiration dates.
+
 Export it in the shell you run `make record` from - there is no `.env` file support,
 by design (see "No stored credentials" in the README):
 
