@@ -4,6 +4,26 @@ Almost every useful change is a row in a table. No Python needed, and every file
 `config/` is a CSV you can open in a spreadsheet - the columns are documented in
 [`config/README.md`](config/README.md).
 
+## Set up a GITHUB_TOKEN
+
+`make record` and `tgx collect` (live mode) need a token to call the GitHub GraphQL
+API. Every tracked repo is public, so a token needs no write access:
+
+- GitHub -> Settings -> Developer settings -> Personal access tokens -> Fine-grained
+  tokens -> Generate new token
+- Repository access: **Public Repositories (read-only)**
+- Permissions: leave everything else at "No access"
+
+Export it in the shell you run `make record` from - there is no `.env` file support,
+by design (see "No stored credentials" in the README):
+
+```bash
+export GITHUB_TOKEN=github_pat_XXXXXXXXXXXX
+```
+
+`GH_TOKEN` works too. Without either, GitHub is skipped (live mode) or fixtures are
+replayed (offline mode) - `make check` and `make offline` never need a token.
+
 ## Add a project
 
 One row in `config/projects.csv`:
