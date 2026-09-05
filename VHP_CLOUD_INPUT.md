@@ -3,8 +3,22 @@
 `vhp4safety/cloud` keeps one JSON file per service in `docs/service/*.json`, meant
 for its own service catalog. Some of those services are software the department
 built, and belong in this repository's `config/` tables too, but nothing pulls
-them over automatically - this is the manual procedure for doing that, and what
-was checked the last time it was done (2026-09-05).
+them over on its own.
+
+**Run `make cloud-sync` first.** It automates Steps 1, 2 and 4 below: it lists and
+filters the candidates, follows GitHub renames so an already-tracked repo is never
+re-added under its old name, writes the `identifiers.csv` rows a JSON actually
+supports, and finishes with the `tgx doctor` check from Step 5 (`make record` and
+`pytest -q` there are still a person's job, same as for any other new repo or DOI).
+What it deliberately does *not* decide for you is Step 3 - the wording of a new
+project's `what` and the pick of its `mark` - and anything genuinely ambiguous (an
+owner shared by more than one existing project, a file with more than one
+plausible repo and no `instance.source` to prefer): those are printed for a person
+to resolve, which is what the rest of this document walks through by hand. See
+`scripts/cloud_sync.py`'s own docstring for exactly what it checks.
+
+This is the manual procedure for what `make cloud-sync` leaves for a person, and
+what was checked the last time it was done (2026-09-05).
 
 ## Where the source lives
 
