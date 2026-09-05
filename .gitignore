@@ -1,6 +1,8 @@
 __pycache__/
 *.py[cod]
 .venv/
+.vscode/
+
 # Anchored: an unanchored `site/` also matches src/tgx_outputs/site/, which quietly
 # kept the whole rendering layer out of the repository.
 /site/
