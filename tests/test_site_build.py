@@ -97,7 +97,8 @@ def test_an_incomplete_source_reports_the_fraction_it_managed():
 def test_a_complete_and_current_run_says_so_plainly():
     fresh = freshness.assess(_snapshot(0))
     assert fresh["incomplete"] == []
-    assert "-" not in fresh["summary"] and "incomplete" not in fresh["summary"]
+    assert "needs attention" not in fresh["summary"]
+    assert "incomplete" not in fresh["summary"]
 
 
 def test_stale_sources_are_named_in_the_summary():
