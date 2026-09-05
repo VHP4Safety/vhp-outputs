@@ -1,0 +1,190 @@
+{
+ "collected_on": "2026-09-05",
+ "config_sha": "448006e94b32",
+ "sources": {
+  "bioconductor": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:29:47+00:00",
+   "record_count": 518,
+   "expected": null,
+   "found": null,
+   "quarantined": [],
+   "errors": [],
+   "calls": [
+    {
+     "url": "https://bioconductor.org/packages/stats/bioc/bioc_pkg_stats.tab",
+     "status": 200,
+     "ok": true,
+     "note": "all packages, all months, one file"
+    },
+    {
+     "url": "https://bioconductor.org/packages/stats/bioc/bioc_pkg_scores.tab",
+     "status": 200,
+     "ok": true,
+     "note": "download score table"
+    }
+   ]
+  },
+  "citations": {
+   "status": "degraded",
+   "fetched_at": "2026-09-05T07:29:54+00:00",
+   "record_count": 26,
+   "expected": 16,
+   "found": 15,
+   "quarantined": [],
+   "errors": [
+    "OpenAlex has no record for 1 DOI(s): 10.26434/chemrxiv-2025-jr9v7"
+   ],
+   "calls": [
+    {
+     "url": "https://api.openalex.org/works",
+     "status": 200,
+     "ok": true,
+     "note": "16 DOIs asked, 15 returned"
+    }
+   ]
+  },
+  "dockerhub": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:29:54+00:00",
+   "record_count": 2,
+   "expected": null,
+   "found": null,
+   "quarantined": [],
+   "errors": [],
+   "calls": [
+    {
+     "url": "https://hub.docker.com/v2/repositories/vhp4safety/virtual-human-platform/",
+     "status": 200,
+     "ok": true,
+     "note": "vhp"
+    },
+    {
+     "url": "https://hub.docker.com/v2/repositories/bigcatum/bridgedb/",
+     "status": 200,
+     "ok": true,
+     "note": "bridgedb"
+    }
+   ]
+  },
+  "ecosystems": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:29:54+00:00",
+   "record_count": 20,
+   "expected": null,
+   "found": null,
+   "quarantined": [],
+   "errors": [],
+   "calls": [
+    {
+     "url": "https://packages.ecosyste.ms/api/v1/registries/pypi.org/packages/pybiodatafuse",
+     "status": 200,
+     "ok": true,
+     "note": "biodatafuse"
+    },
+    {
+     "url": "https://packages.ecosyste.ms/api/v1/registries/bioconductor.org/packages/BridgeDbR",
+     "status": 200,
+     "ok": true,
+     "note": "bridgedb"
+    },
+    {
+     "url": "https://packages.ecosyste.ms/api/v1/registries/npmjs.org/packages/bridgedb",
+     "status": 200,
+     "ok": true,
+     "note": "bridgedb"
+    },
+    {
+     "url": "https://packages.ecosyste.ms/api/v1/registries/repo1.maven.org/packages/org.bridgedb:org.bridgedb.bio",
+     "status": 200,
+     "ok": true,
+     "note": "bridgedb"
+    },
+    {
+     "url": "https://packages.ecosyste.ms/api/v1/registries/bioconductor.org/packages/rWikiPathways",
+     "status": 200,
+     "ok": true,
+     "note": "wikipathways"
+    },
+    {
+     "url": "https://packages.ecosyste.ms/api/v1/registries/pypi.org/packages/pywikipathways",
+     "status": 200,
+     "ok": true,
+     "note": "wikipathways"
+    },
+    {
+     "url": "https://packages.ecosyste.ms/api/v1/registries/npmjs.org/packages/@wikipathways/pvjs",
+     "status": 200,
+     "ok": true,
+     "note": "wikipathways"
+    }
+   ]
+  },
+  "github": {
+   "status": "degraded",
+   "fetched_at": "2026-09-05T07:29:56+00:00",
+   "record_count": 67,
+   "expected": null,
+   "found": null,
+   "quarantined": [],
+   "errors": [
+    "vhp4safety/aop-app: GitHub answered as VHP4Safety/AOP-Suite; the repo moved"
+   ],
+   "calls": [
+    {
+     "url": "https://api.github.com/graphql (10 repositories)",
+     "status": 200,
+     "ok": true,
+     "note": "10 of 10 returned: vhp4safety/virtual-human-platform, vhp4safety/cloud, vhp4safety/ui-casestudy-config, vhp4safety/glossary, marvinm2/AOPWikiRDF, marvinm2/AOP-Wiki-Snorql-UI, marvinm2/AOP-Wiki-RDF-dashboard, marvinm2/aopwiki-snorql-extended, marvinm2/AOPWikiQueries, marvinm2/molAOP-builder"
+    },
+    {
+     "url": "https://api.github.com/graphql (10 repositories)",
+     "status": 200,
+     "ok": true,
+     "note": "10 of 10 returned: marvinm2/molAOP-analyser, johannehouweling/ToxTempAssistant, abhishek-chattopadhyay/robot, BioDataFuse/pyBiodatafuse, BioDataFuse/biodatafuseUI, bridgedb/datasources, bridgedb/BridgeDb, bridgedb/BridgeDbWebservice, bridgedb/bridgedbjs, bridgedb/docker"
+    },
+    {
+     "url": "https://api.github.com/graphql (10 repositories)",
+     "status": 200,
+     "ok": true,
+     "note": "10 of 10 returned: BiGCAT-UM/BridgeDbR, wikipathways/rWikiPathways, wikipathways/pywikipathways, wikipathways/wikipathways-database, PathVisio/pathvisio, arrayanalysis/ArrayAnalysis_Shiny, vhp4safety/aop-builder, vhp4safety/aop-app, vhp4safety/O-QT-OECD-QSAR-Toolbox-AI-assistant, vhp4safety/MCT8-doc"
+    },
+    {
+     "url": "https://api.github.com/graphql (5 repositories)",
+     "status": 200,
+     "ok": true,
+     "note": "5 of 5 returned: vhp4safety/qAOP-app, vhp4safety/QSPRpred-Docker, vhp4safety/xploreaop, ontox-project/Llemy, fcaiment/R-ODAF"
+    }
+   ]
+  },
+  "rsd": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:30:00+00:00",
+   "record_count": 4,
+   "expected": null,
+   "found": null,
+   "quarantined": [],
+   "errors": [],
+   "calls": [
+    {
+     "url": "https://research-software-directory.org/api/v1/rpc/software_by_organisation?organisation_id=34e58775-bba6-48ee-9e0e-d1821cd33108",
+     "status": 200,
+     "ok": true,
+     "note": "28 software entries"
+    }
+   ]
+  },
+  "wikipathways": {
+   "status": "skipped",
+   "fetched_at": "2026-09-05T07:30:01+00:00",
+   "record_count": 0,
+   "expected": null,
+   "found": null,
+   "quarantined": [],
+   "errors": [
+    "disabled in config/collectors.csv"
+   ],
+   "calls": []
+  }
+ }
+}

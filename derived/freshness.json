@@ -1,0 +1,116 @@
+{
+ "collected_on": "2026-09-05",
+ "sources": [
+  {
+   "source": "bioconductor",
+   "status": "ok",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": true,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "record_count": 518,
+   "fetched_at": "2026-09-05T07:29:47+00:00"
+  },
+  {
+   "source": "citations",
+   "status": "degraded",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": false,
+   "expected": 16,
+   "found": 15,
+   "unit": "papers",
+   "record_count": 26,
+   "fetched_at": "2026-09-05T07:29:54+00:00"
+  },
+  {
+   "source": "dockerhub",
+   "status": "ok",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": true,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "record_count": 2,
+   "fetched_at": "2026-09-05T07:29:54+00:00"
+  },
+  {
+   "source": "ecosystems",
+   "status": "ok",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": true,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "record_count": 20,
+   "fetched_at": "2026-09-05T07:29:54+00:00"
+  },
+  {
+   "source": "github",
+   "status": "degraded",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": false,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "record_count": 67,
+   "fetched_at": "2026-09-05T07:29:56+00:00"
+  },
+  {
+   "source": "rsd",
+   "status": "ok",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": true,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "record_count": 4,
+   "fetched_at": "2026-09-05T07:30:00+00:00"
+  }
+ ],
+ "ok": 4,
+ "refreshed": 6,
+ "incomplete": [
+  {
+   "source": "citations",
+   "status": "degraded",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": false,
+   "expected": 16,
+   "found": 15,
+   "unit": "papers",
+   "record_count": 26,
+   "fetched_at": "2026-09-05T07:29:54+00:00"
+  },
+  {
+   "source": "github",
+   "status": "degraded",
+   "age_days": 0.0,
+   "cadence_days": 7,
+   "level": "fresh",
+   "complete": false,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "record_count": 67,
+   "fetched_at": "2026-09-05T07:29:56+00:00"
+  }
+ ],
+ "total": 6,
+ "level": "fresh",
+ "summary": "6 of 6 sources refreshed 2026-09-05 - 2 sources incomplete: citations (15 of 16 papers found), github"
+}

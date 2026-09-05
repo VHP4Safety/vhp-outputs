@@ -1,0 +1,4126 @@
+{
+ "collected_on": "2026-09-05",
+ "config_sha": "448006e94b32",
+ "sources": {
+  "bioconductor": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:29:47+00:00",
+   "collector_version": "1",
+   "record_count": 518,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "records": [
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 336.0,
+     "period": "2026-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 199.0,
+     "period": "2026-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 498.0,
+     "period": "2026-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 346.0,
+     "period": "2026-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 727.0,
+     "period": "2026-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 619.0,
+     "period": "2026-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 617.0,
+     "period": "2026-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 450.0,
+     "period": "2026-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 689.0,
+     "period": "2026-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 446.0,
+     "period": "2026-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 561.0,
+     "period": "2026-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 460.0,
+     "period": "2026-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 438.0,
+     "period": "2026-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 378.0,
+     "period": "2026-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 4194.0,
+     "period": "2026-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 2398.0,
+     "period": "2026-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 1548.0,
+     "period": "2026-09",
+     "partial": true
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 666.0,
+     "period": "2026-09",
+     "partial": true
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 339.0,
+     "period": "2025-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 199.0,
+     "period": "2025-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 298.0,
+     "period": "2025-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 182.0,
+     "period": "2025-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 313.0,
+     "period": "2025-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 182.0,
+     "period": "2025-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 469.0,
+     "period": "2025-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 231.0,
+     "period": "2025-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 584.0,
+     "period": "2025-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 261.0,
+     "period": "2025-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 394.0,
+     "period": "2025-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 250.0,
+     "period": "2025-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 468.0,
+     "period": "2025-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 321.0,
+     "period": "2025-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 367.0,
+     "period": "2025-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 222.0,
+     "period": "2025-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 400.0,
+     "period": "2025-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 247.0,
+     "period": "2025-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 383.0,
+     "period": "2025-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 230.0,
+     "period": "2025-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 287.0,
+     "period": "2025-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 186.0,
+     "period": "2025-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 351.0,
+     "period": "2025-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 266.0,
+     "period": "2025-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 239.0,
+     "period": "2024-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 54.0,
+     "period": "2024-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 108.0,
+     "period": "2024-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 82.0,
+     "period": "2024-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 133.0,
+     "period": "2024-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 87.0,
+     "period": "2024-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 414.0,
+     "period": "2024-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 132.0,
+     "period": "2024-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 421.0,
+     "period": "2024-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 115.0,
+     "period": "2024-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 616.0,
+     "period": "2024-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 81.0,
+     "period": "2024-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 157.0,
+     "period": "2024-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 77.0,
+     "period": "2024-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 162.0,
+     "period": "2024-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 92.0,
+     "period": "2024-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 278.0,
+     "period": "2024-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 179.0,
+     "period": "2024-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 251.0,
+     "period": "2024-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 124.0,
+     "period": "2024-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 220.0,
+     "period": "2024-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 97.0,
+     "period": "2024-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 257.0,
+     "period": "2024-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 112.0,
+     "period": "2024-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 88.0,
+     "period": "2023-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 59.0,
+     "period": "2023-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 102.0,
+     "period": "2023-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 56.0,
+     "period": "2023-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 148.0,
+     "period": "2023-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 113.0,
+     "period": "2023-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 202.0,
+     "period": "2023-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 149.0,
+     "period": "2023-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 124.0,
+     "period": "2023-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 89.0,
+     "period": "2023-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 93.0,
+     "period": "2023-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 60.0,
+     "period": "2023-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 93.0,
+     "period": "2023-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 52.0,
+     "period": "2023-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 129.0,
+     "period": "2023-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 71.0,
+     "period": "2023-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 142.0,
+     "period": "2023-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 89.0,
+     "period": "2023-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 163.0,
+     "period": "2023-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 76.0,
+     "period": "2023-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 115.0,
+     "period": "2023-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 73.0,
+     "period": "2023-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 112.0,
+     "period": "2023-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 49.0,
+     "period": "2023-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 110.0,
+     "period": "2022-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 66.0,
+     "period": "2022-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 85.0,
+     "period": "2022-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 48.0,
+     "period": "2022-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 136.0,
+     "period": "2022-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 75.0,
+     "period": "2022-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 83.0,
+     "period": "2022-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 53.0,
+     "period": "2022-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 103.0,
+     "period": "2022-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 74.0,
+     "period": "2022-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 60.0,
+     "period": "2022-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 42.0,
+     "period": "2022-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 119.0,
+     "period": "2022-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 64.0,
+     "period": "2022-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 40.0,
+     "period": "2022-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 28.0,
+     "period": "2022-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 113.0,
+     "period": "2022-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 52.0,
+     "period": "2022-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 72.0,
+     "period": "2022-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 43.0,
+     "period": "2022-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 100.0,
+     "period": "2022-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 64.0,
+     "period": "2022-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 70.0,
+     "period": "2022-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 41.0,
+     "period": "2022-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 130.0,
+     "period": "2021-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 59.0,
+     "period": "2021-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 205.0,
+     "period": "2021-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 74.0,
+     "period": "2021-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 170.0,
+     "period": "2021-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 96.0,
+     "period": "2021-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 177.0,
+     "period": "2021-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 101.0,
+     "period": "2021-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 167.0,
+     "period": "2021-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 87.0,
+     "period": "2021-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 126.0,
+     "period": "2021-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 75.0,
+     "period": "2021-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 120.0,
+     "period": "2021-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 63.0,
+     "period": "2021-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 109.0,
+     "period": "2021-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 60.0,
+     "period": "2021-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 167.0,
+     "period": "2021-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 93.0,
+     "period": "2021-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 142.0,
+     "period": "2021-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 80.0,
+     "period": "2021-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 109.0,
+     "period": "2021-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 70.0,
+     "period": "2021-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 104.0,
+     "period": "2021-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 59.0,
+     "period": "2021-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 88.0,
+     "period": "2020-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 55.0,
+     "period": "2020-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 234.0,
+     "period": "2020-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 62.0,
+     "period": "2020-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 158.0,
+     "period": "2020-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 69.0,
+     "period": "2020-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 116.0,
+     "period": "2020-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 60.0,
+     "period": "2020-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 129.0,
+     "period": "2020-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 69.0,
+     "period": "2020-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 186.0,
+     "period": "2020-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 61.0,
+     "period": "2020-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 168.0,
+     "period": "2020-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 66.0,
+     "period": "2020-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 179.0,
+     "period": "2020-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 64.0,
+     "period": "2020-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 222.0,
+     "period": "2020-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 58.0,
+     "period": "2020-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 184.0,
+     "period": "2020-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 84.0,
+     "period": "2020-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 142.0,
+     "period": "2020-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 53.0,
+     "period": "2020-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 118.0,
+     "period": "2020-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 59.0,
+     "period": "2020-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 182.0,
+     "period": "2019-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 125.0,
+     "period": "2019-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 137.0,
+     "period": "2019-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 82.0,
+     "period": "2019-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 157.0,
+     "period": "2019-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 99.0,
+     "period": "2019-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 205.0,
+     "period": "2019-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 126.0,
+     "period": "2019-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 214.0,
+     "period": "2019-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 113.0,
+     "period": "2019-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 151.0,
+     "period": "2019-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 89.0,
+     "period": "2019-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 159.0,
+     "period": "2019-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 94.0,
+     "period": "2019-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 100.0,
+     "period": "2019-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 70.0,
+     "period": "2019-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 65.0,
+     "period": "2019-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 45.0,
+     "period": "2019-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 114.0,
+     "period": "2019-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 59.0,
+     "period": "2019-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 122.0,
+     "period": "2019-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 75.0,
+     "period": "2019-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 81.0,
+     "period": "2019-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 43.0,
+     "period": "2019-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 184.0,
+     "period": "2018-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 105.0,
+     "period": "2018-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 134.0,
+     "period": "2018-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 103.0,
+     "period": "2018-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 175.0,
+     "period": "2018-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 113.0,
+     "period": "2018-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 261.0,
+     "period": "2018-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 152.0,
+     "period": "2018-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 181.0,
+     "period": "2018-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 109.0,
+     "period": "2018-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 205.0,
+     "period": "2018-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 140.0,
+     "period": "2018-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 134.0,
+     "period": "2018-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 99.0,
+     "period": "2018-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 118.0,
+     "period": "2018-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 78.0,
+     "period": "2018-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 141.0,
+     "period": "2018-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 90.0,
+     "period": "2018-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 136.0,
+     "period": "2018-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 85.0,
+     "period": "2018-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 182.0,
+     "period": "2018-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 106.0,
+     "period": "2018-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 121.0,
+     "period": "2018-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 87.0,
+     "period": "2018-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 102.0,
+     "period": "2017-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 80.0,
+     "period": "2017-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 169.0,
+     "period": "2017-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 119.0,
+     "period": "2017-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 229.0,
+     "period": "2017-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 124.0,
+     "period": "2017-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 225.0,
+     "period": "2017-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 157.0,
+     "period": "2017-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 265.0,
+     "period": "2017-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 133.0,
+     "period": "2017-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 231.0,
+     "period": "2017-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 143.0,
+     "period": "2017-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 148.0,
+     "period": "2017-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 108.0,
+     "period": "2017-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 172.0,
+     "period": "2017-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 103.0,
+     "period": "2017-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 168.0,
+     "period": "2017-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 120.0,
+     "period": "2017-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 171.0,
+     "period": "2017-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 113.0,
+     "period": "2017-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 206.0,
+     "period": "2017-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 123.0,
+     "period": "2017-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 106.0,
+     "period": "2017-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 77.0,
+     "period": "2017-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 150.0,
+     "period": "2016-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 103.0,
+     "period": "2016-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 186.0,
+     "period": "2016-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 104.0,
+     "period": "2016-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 224.0,
+     "period": "2016-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 125.0,
+     "period": "2016-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 261.0,
+     "period": "2016-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 171.0,
+     "period": "2016-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 163.0,
+     "period": "2016-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 121.0,
+     "period": "2016-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 198.0,
+     "period": "2016-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 127.0,
+     "period": "2016-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 146.0,
+     "period": "2016-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 109.0,
+     "period": "2016-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 134.0,
+     "period": "2016-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 102.0,
+     "period": "2016-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 115.0,
+     "period": "2016-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 96.0,
+     "period": "2016-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 173.0,
+     "period": "2016-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 129.0,
+     "period": "2016-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 158.0,
+     "period": "2016-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 117.0,
+     "period": "2016-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 177.0,
+     "period": "2016-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 131.0,
+     "period": "2016-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 275.0,
+     "period": "2015-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 153.0,
+     "period": "2015-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 232.0,
+     "period": "2015-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 124.0,
+     "period": "2015-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 218.0,
+     "period": "2015-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 166.0,
+     "period": "2015-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 193.0,
+     "period": "2015-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 139.0,
+     "period": "2015-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 173.0,
+     "period": "2015-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 120.0,
+     "period": "2015-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 181.0,
+     "period": "2015-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 112.0,
+     "period": "2015-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 150.0,
+     "period": "2015-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 109.0,
+     "period": "2015-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 162.0,
+     "period": "2015-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 116.0,
+     "period": "2015-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 167.0,
+     "period": "2015-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 98.0,
+     "period": "2015-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 172.0,
+     "period": "2015-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 114.0,
+     "period": "2015-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 158.0,
+     "period": "2015-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 107.0,
+     "period": "2015-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 171.0,
+     "period": "2015-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 113.0,
+     "period": "2015-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 0.0,
+     "period": "2014-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 79.0,
+     "period": "2014-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 65.0,
+     "period": "2014-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 217.0,
+     "period": "2014-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 164.0,
+     "period": "2014-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "BridgeDbR",
+     "value": 151.0,
+     "period": "2014-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "BridgeDbR",
+     "value": 129.0,
+     "period": "2014-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 641.0,
+     "period": "2026-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 446.0,
+     "period": "2026-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 814.0,
+     "period": "2026-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 539.0,
+     "period": "2026-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 873.0,
+     "period": "2026-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 677.0,
+     "period": "2026-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 951.0,
+     "period": "2026-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 687.0,
+     "period": "2026-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 868.0,
+     "period": "2026-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 601.0,
+     "period": "2026-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 697.0,
+     "period": "2026-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 537.0,
+     "period": "2026-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 781.0,
+     "period": "2026-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 586.0,
+     "period": "2026-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 4025.0,
+     "period": "2026-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 2241.0,
+     "period": "2026-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 1303.0,
+     "period": "2026-09",
+     "partial": true
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 583.0,
+     "period": "2026-09",
+     "partial": true
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 805.0,
+     "period": "2025-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 380.0,
+     "period": "2025-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 689.0,
+     "period": "2025-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 319.0,
+     "period": "2025-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 838.0,
+     "period": "2025-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 410.0,
+     "period": "2025-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 881.0,
+     "period": "2025-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 466.0,
+     "period": "2025-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 855.0,
+     "period": "2025-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 485.0,
+     "period": "2025-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 764.0,
+     "period": "2025-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 476.0,
+     "period": "2025-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 779.0,
+     "period": "2025-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 511.0,
+     "period": "2025-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 1523.0,
+     "period": "2025-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 709.0,
+     "period": "2025-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 2613.0,
+     "period": "2025-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 628.0,
+     "period": "2025-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 1300.0,
+     "period": "2025-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 580.0,
+     "period": "2025-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 732.0,
+     "period": "2025-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 475.0,
+     "period": "2025-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 1308.0,
+     "period": "2025-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 981.0,
+     "period": "2025-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 658.0,
+     "period": "2024-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 287.0,
+     "period": "2024-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 518.0,
+     "period": "2024-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 305.0,
+     "period": "2024-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 910.0,
+     "period": "2024-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 524.0,
+     "period": "2024-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 1163.0,
+     "period": "2024-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 522.0,
+     "period": "2024-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 1021.0,
+     "period": "2024-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 415.0,
+     "period": "2024-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 1154.0,
+     "period": "2024-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 368.0,
+     "period": "2024-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 663.0,
+     "period": "2024-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 329.0,
+     "period": "2024-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 691.0,
+     "period": "2024-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 348.0,
+     "period": "2024-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 787.0,
+     "period": "2024-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 444.0,
+     "period": "2024-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 905.0,
+     "period": "2024-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 396.0,
+     "period": "2024-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 801.0,
+     "period": "2024-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 372.0,
+     "period": "2024-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 744.0,
+     "period": "2024-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 260.0,
+     "period": "2024-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 459.0,
+     "period": "2023-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 274.0,
+     "period": "2023-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 421.0,
+     "period": "2023-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 265.0,
+     "period": "2023-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 532.0,
+     "period": "2023-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 405.0,
+     "period": "2023-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 721.0,
+     "period": "2023-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 543.0,
+     "period": "2023-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 503.0,
+     "period": "2023-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 371.0,
+     "period": "2023-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 441.0,
+     "period": "2023-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 326.0,
+     "period": "2023-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 438.0,
+     "period": "2023-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 284.0,
+     "period": "2023-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 433.0,
+     "period": "2023-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 301.0,
+     "period": "2023-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 499.0,
+     "period": "2023-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 299.0,
+     "period": "2023-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 16696.0,
+     "period": "2023-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 411.0,
+     "period": "2023-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 14361.0,
+     "period": "2023-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 372.0,
+     "period": "2023-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 746.0,
+     "period": "2023-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 582.0,
+     "period": "2023-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 344.0,
+     "period": "2022-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 233.0,
+     "period": "2022-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 352.0,
+     "period": "2022-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 226.0,
+     "period": "2022-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 373.0,
+     "period": "2022-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 250.0,
+     "period": "2022-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 400.0,
+     "period": "2022-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 283.0,
+     "period": "2022-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 392.0,
+     "period": "2022-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 297.0,
+     "period": "2022-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 386.0,
+     "period": "2022-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 296.0,
+     "period": "2022-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 368.0,
+     "period": "2022-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 249.0,
+     "period": "2022-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 286.0,
+     "period": "2022-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 237.0,
+     "period": "2022-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 331.0,
+     "period": "2022-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 241.0,
+     "period": "2022-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 356.0,
+     "period": "2022-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 261.0,
+     "period": "2022-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 486.0,
+     "period": "2022-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 294.0,
+     "period": "2022-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 368.0,
+     "period": "2022-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 261.0,
+     "period": "2022-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 359.0,
+     "period": "2021-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 235.0,
+     "period": "2021-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 393.0,
+     "period": "2021-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 223.0,
+     "period": "2021-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 497.0,
+     "period": "2021-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 348.0,
+     "period": "2021-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 530.0,
+     "period": "2021-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 360.0,
+     "period": "2021-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 509.0,
+     "period": "2021-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 313.0,
+     "period": "2021-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 413.0,
+     "period": "2021-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 298.0,
+     "period": "2021-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 323.0,
+     "period": "2021-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 216.0,
+     "period": "2021-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 275.0,
+     "period": "2021-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 199.0,
+     "period": "2021-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 351.0,
+     "period": "2021-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 252.0,
+     "period": "2021-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 328.0,
+     "period": "2021-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 235.0,
+     "period": "2021-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 336.0,
+     "period": "2021-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 229.0,
+     "period": "2021-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 344.0,
+     "period": "2021-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 240.0,
+     "period": "2021-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 170.0,
+     "period": "2020-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 121.0,
+     "period": "2020-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 232.0,
+     "period": "2020-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 138.0,
+     "period": "2020-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 258.0,
+     "period": "2020-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 154.0,
+     "period": "2020-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 294.0,
+     "period": "2020-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 201.0,
+     "period": "2020-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 330.0,
+     "period": "2020-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 220.0,
+     "period": "2020-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 447.0,
+     "period": "2020-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 213.0,
+     "period": "2020-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 296.0,
+     "period": "2020-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 181.0,
+     "period": "2020-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 311.0,
+     "period": "2020-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 174.0,
+     "period": "2020-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 349.0,
+     "period": "2020-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 213.0,
+     "period": "2020-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 359.0,
+     "period": "2020-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 233.0,
+     "period": "2020-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 330.0,
+     "period": "2020-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 204.0,
+     "period": "2020-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 299.0,
+     "period": "2020-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 195.0,
+     "period": "2020-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 161.0,
+     "period": "2019-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 105.0,
+     "period": "2019-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 238.0,
+     "period": "2019-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 161.0,
+     "period": "2019-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 295.0,
+     "period": "2019-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 233.0,
+     "period": "2019-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 360.0,
+     "period": "2019-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 268.0,
+     "period": "2019-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 277.0,
+     "period": "2019-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 176.0,
+     "period": "2019-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 213.0,
+     "period": "2019-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 143.0,
+     "period": "2019-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 296.0,
+     "period": "2019-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 163.0,
+     "period": "2019-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 206.0,
+     "period": "2019-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 157.0,
+     "period": "2019-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 130.0,
+     "period": "2019-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 97.0,
+     "period": "2019-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 312.0,
+     "period": "2019-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 198.0,
+     "period": "2019-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 270.0,
+     "period": "2019-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 176.0,
+     "period": "2019-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 198.0,
+     "period": "2019-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 127.0,
+     "period": "2019-12"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 0.0,
+     "period": "2018-01"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 0.0,
+     "period": "2018-01"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 0.0,
+     "period": "2018-02"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 0.0,
+     "period": "2018-02"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 0.0,
+     "period": "2018-03"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 0.0,
+     "period": "2018-03"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 21.0,
+     "period": "2018-04"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 18.0,
+     "period": "2018-04"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 95.0,
+     "period": "2018-05"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 68.0,
+     "period": "2018-05"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 93.0,
+     "period": "2018-06"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 69.0,
+     "period": "2018-06"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 82.0,
+     "period": "2018-07"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 65.0,
+     "period": "2018-07"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 74.0,
+     "period": "2018-08"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 53.0,
+     "period": "2018-08"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 157.0,
+     "period": "2018-09"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 82.0,
+     "period": "2018-09"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 172.0,
+     "period": "2018-10"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 92.0,
+     "period": "2018-10"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 188.0,
+     "period": "2018-11"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 95.0,
+     "period": "2018-11"
+    },
+    {
+     "metric": "bioc_downloads_monthly",
+     "entity": "rWikiPathways",
+     "value": 137.0,
+     "period": "2018-12"
+    },
+    {
+     "metric": "bioc_distinct_ips_monthly",
+     "entity": "rWikiPathways",
+     "value": 84.0,
+     "period": "2018-12"
+    },
+    {
+     "metric": "bioc_rank",
+     "entity": "rWikiPathways",
+     "value": 477,
+     "extra": {
+      "of": 3118
+     }
+    },
+    {
+     "metric": "bioc_rank",
+     "entity": "BridgeDbR",
+     "value": 1076,
+     "extra": {
+      "of": 3118
+     }
+    }
+   ]
+  },
+  "citations": {
+   "status": "degraded",
+   "fetched_at": "2026-09-05T07:29:54+00:00",
+   "collector_version": "2",
+   "record_count": 26,
+   "expected": 16,
+   "found": 15,
+   "unit": "papers",
+   "records": [
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.14573/altex.2407211",
+     "value": 11.0,
+     "extra": {
+      "project": "vhp",
+      "year": 2024,
+      "type": "article",
+      "title": "The Virtual Human Platform for Safety Assessment (VHP4Safety) project: Next generation che"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1089/aivt.2021.0010",
+     "value": 38.0,
+     "extra": {
+      "project": "aopwiki-rdf",
+      "year": 2022,
+      "type": "article",
+      "title": "Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase "
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.14573/altex.2307131",
+     "value": 18.0,
+     "extra": {
+      "project": "aopwiki-rdf",
+      "year": 2023,
+      "type": "article",
+      "title": "Why adverse outcome pathways need to be FAIR"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.3389/fgene.2018.00661",
+     "value": 63.0,
+     "extra": {
+      "project": "molaop",
+      "year": 2018,
+      "type": "article",
+      "title": "Introducing WikiPathways as a Data-Source to Support Adverse Outcome Pathways for Regulato"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1101/2023.03.02.530766",
+     "value": 3.0,
+     "extra": {
+      "project": "molaop",
+      "year": 2023,
+      "type": "preprint",
+      "title": "Molecular Adverse Outcome Pathways: towards the implementation of transcriptomics data in "
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1080/2833373x.2026.2638036",
+     "value": 0.0,
+     "extra": {
+      "project": "tta",
+      "year": 2026,
+      "type": "article",
+      "title": "ToxTempAssistant : using large language models to standardise cell-based toxicological tes"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1093/bioinformatics/btag064",
+     "value": 2.0,
+     "extra": {
+      "project": "biodatafuse",
+      "year": 2026,
+      "type": "article",
+      "title": "pyBiodatafuse: extending interoperability of data using modular queries across biomedical "
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.37044/osf.io/mhsqp",
+     "value": 2.0,
+     "extra": {
+      "project": "biodatafuse",
+      "year": 2023,
+      "type": "preprint",
+      "title": "BioHackEU23 report: Extending interoperability of experimental data using modular queries "
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1186/1471-2105-11-5",
+     "value": 238.0,
+     "extra": {
+      "project": "bridgedb",
+      "year": 2010,
+      "type": "article",
+      "title": "The BridgeDb framework: standardized access to gene, protein and metabolite identifier map"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1093/nar/gkad960",
+     "value": 474.0,
+     "extra": {
+      "project": "wikipathways",
+      "year": 2023,
+      "type": "article",
+      "title": "WikiPathways 2024: next generation pathway database"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1371/journal.pcbi.1004989",
+     "value": 50.0,
+     "extra": {
+      "project": "wikipathways",
+      "year": 2016,
+      "type": "article",
+      "title": "Using the Semantic Web for Rapid Integration of WikiPathways with Other Biological Online "
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1371/journal.pcbi.1004085",
+     "value": 501.0,
+     "extra": {
+      "project": "pathvisio",
+      "year": 2015,
+      "type": "article",
+      "title": "PathVisio 3: An Extendable Pathway Analysis Toolbox"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1093/nar/gkt293",
+     "value": 137.0,
+     "extra": {
+      "project": "arrayanalysis",
+      "year": 2013,
+      "type": "article",
+      "title": "User-friendly solutions for microarray quality control and pre-processing on ArrayAnalysis"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.1016/j.comtox.2025.100395",
+     "value": 2.0,
+     "extra": {
+      "project": "oqt-assistant",
+      "year": 2025,
+      "type": "article",
+      "title": "O-QT assistant: a multi-agent AI system for streamlined chemical hazard assessment and rea"
+     }
+    },
+    {
+     "metric": "paper_citations_by_doi",
+     "entity": "10.64898/2026.03.10.710813",
+     "value": 0.0,
+     "extra": {
+      "project": "llemy",
+      "year": 2026,
+      "type": "preprint",
+      "title": "User-driven development and evaluation of an agentic framework for analysis of large pathw"
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "aopwiki-rdf",
+     "value": 56.0,
+     "extra": {
+      "papers": 2
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "arrayanalysis",
+     "value": 137.0,
+     "extra": {
+      "papers": 1
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "biodatafuse",
+     "value": 4.0,
+     "extra": {
+      "papers": 2
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "bridgedb",
+     "value": 238.0,
+     "extra": {
+      "papers": 1
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "llemy",
+     "value": 0.0,
+     "extra": {
+      "papers": 1
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "molaop",
+     "value": 66.0,
+     "extra": {
+      "papers": 2
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "oqt-assistant",
+     "value": 2.0,
+     "extra": {
+      "papers": 1
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "pathvisio",
+     "value": 501.0,
+     "extra": {
+      "papers": 1
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "tta",
+     "value": 0.0,
+     "extra": {
+      "papers": 1
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "vhp",
+     "value": 11.0,
+     "extra": {
+      "papers": 1
+     }
+    },
+    {
+     "metric": "paper_citations",
+     "entity": "wikipathways",
+     "value": 524.0,
+     "extra": {
+      "papers": 2
+     }
+    }
+   ]
+  },
+  "dockerhub": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:29:54+00:00",
+   "collector_version": "2",
+   "record_count": 2,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "records": [
+    {
+     "metric": "docker_pulls_total",
+     "entity": "vhp4safety/virtual-human-platform",
+     "value": 1348.0,
+     "extra": {
+      "project": "vhp",
+      "last_updated": "2026-03-18"
+     }
+    },
+    {
+     "metric": "docker_pulls_total",
+     "entity": "bigcatum/bridgedb",
+     "value": 5756.0,
+     "extra": {
+      "project": "bridgedb",
+      "last_updated": "2026-08-03"
+     }
+    }
+   ]
+  },
+  "ecosystems": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:29:54+00:00",
+   "collector_version": "5",
+   "record_count": 20,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "records": [
+    {
+     "metric": "package_dependents",
+     "entity": "pypi.org/pybiodatafuse",
+     "value": 0.0,
+     "extra": {
+      "project": "biodatafuse",
+      "registry": "pypi.org"
+     }
+    },
+    {
+     "metric": "package_downloads_recent",
+     "entity": "pypi.org/pybiodatafuse",
+     "value": 50.0,
+     "extra": {
+      "project": "biodatafuse",
+      "registry": "pypi.org",
+      "period_label": "last-month",
+      "latest_version": "1.3.0"
+     }
+    },
+    {
+     "metric": "package_dependents",
+     "entity": "bioconductor.org/BridgeDbR",
+     "value": 0.0,
+     "extra": {
+      "project": "bridgedb",
+      "registry": "bioconductor.org"
+     }
+    },
+    {
+     "metric": "package_downloads_total",
+     "entity": "bioconductor.org/BridgeDbR",
+     "value": 31764.0,
+     "extra": {
+      "project": "bridgedb",
+      "registry": "bioconductor.org",
+      "period_label": "total",
+      "latest_version": "2.22.0"
+     }
+    },
+    {
+     "metric": "package_dependents",
+     "entity": "npmjs.org/bridgedb",
+     "value": 4.0,
+     "extra": {
+      "project": "bridgedb",
+      "registry": "npmjs.org"
+     }
+    },
+    {
+     "metric": "package_downloads_recent",
+     "entity": "npmjs.org/bridgedb",
+     "value": 234.0,
+     "extra": {
+      "project": "bridgedb",
+      "registry": "npmjs.org",
+      "period_label": "last-month",
+      "latest_version": "6.2.7"
+     }
+    },
+    {
+     "metric": "package_dependents",
+     "entity": "repo1.maven.org/org.bridgedb:org.bridgedb.bio",
+     "value": 16.0,
+     "extra": {
+      "project": "bridgedb",
+      "registry": "repo1.maven.org"
+     }
+    },
+    {
+     "metric": "package_dependents",
+     "entity": "bioconductor.org/rWikiPathways",
+     "value": 5.0,
+     "extra": {
+      "project": "wikipathways",
+      "registry": "bioconductor.org"
+     }
+    },
+    {
+     "metric": "package_downloads_total",
+     "entity": "bioconductor.org/rWikiPathways",
+     "value": 86636.0,
+     "extra": {
+      "project": "wikipathways",
+      "registry": "bioconductor.org",
+      "period_label": "total",
+      "latest_version": "1.32.0"
+     }
+    },
+    {
+     "metric": "package_dependents",
+     "entity": "pypi.org/pywikipathways",
+     "value": 0.0,
+     "extra": {
+      "project": "wikipathways",
+      "registry": "pypi.org"
+     }
+    },
+    {
+     "metric": "package_downloads_recent",
+     "entity": "pypi.org/pywikipathways",
+     "value": 1870.0,
+     "extra": {
+      "project": "wikipathways",
+      "registry": "pypi.org",
+      "period_label": "last-month",
+      "latest_version": "0.0.3"
+     }
+    },
+    {
+     "metric": "package_dependents",
+     "entity": "npmjs.org/@wikipathways/pvjs",
+     "value": 1.0,
+     "extra": {
+      "project": "wikipathways",
+      "registry": "npmjs.org"
+     }
+    },
+    {
+     "metric": "package_downloads_recent",
+     "entity": "npmjs.org/@wikipathways/pvjs",
+     "value": 513.0,
+     "extra": {
+      "project": "wikipathways",
+      "registry": "npmjs.org",
+      "period_label": "last-month",
+      "latest_version": "5.0.1"
+     }
+    },
+    {
+     "metric": "registry_breadth",
+     "entity": "biodatafuse",
+     "value": 1,
+     "extra": {
+      "registry": "pypi.org",
+      "packages": [
+       "pybiodatafuse"
+      ]
+     }
+    },
+    {
+     "metric": "registry_breadth",
+     "entity": "bridgedb",
+     "value": 1,
+     "extra": {
+      "registry": "bioconductor.org",
+      "packages": [
+       "BridgeDbR"
+      ]
+     }
+    },
+    {
+     "metric": "registry_breadth",
+     "entity": "bridgedb",
+     "value": 1,
+     "extra": {
+      "registry": "npmjs.org",
+      "packages": [
+       "bridgedb"
+      ]
+     }
+    },
+    {
+     "metric": "registry_breadth",
+     "entity": "bridgedb",
+     "value": 1,
+     "extra": {
+      "registry": "repo1.maven.org",
+      "packages": [
+       "org.bridgedb:org.bridgedb.bio"
+      ]
+     }
+    },
+    {
+     "metric": "registry_breadth",
+     "entity": "wikipathways",
+     "value": 1,
+     "extra": {
+      "registry": "bioconductor.org",
+      "packages": [
+       "rWikiPathways"
+      ]
+     }
+    },
+    {
+     "metric": "registry_breadth",
+     "entity": "wikipathways",
+     "value": 1,
+     "extra": {
+      "registry": "npmjs.org",
+      "packages": [
+       "@wikipathways/pvjs"
+      ]
+     }
+    },
+    {
+     "metric": "registry_breadth",
+     "entity": "wikipathways",
+     "value": 1,
+     "extra": {
+      "registry": "pypi.org",
+      "packages": [
+       "pywikipathways"
+      ]
+     }
+    }
+   ]
+  },
+  "github": {
+   "status": "degraded",
+   "fetched_at": "2026-09-05T07:29:56+00:00",
+   "collector_version": "3",
+   "record_count": 67,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "records": [
+    {
+     "metric": "releases_by_year",
+     "entity": "aop-builder",
+     "value": 1,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "aop-builder",
+     "value": 1,
+     "extra": {
+      "date": "2026-05-27"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "aopsuite",
+     "value": 1,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "aopsuite",
+     "value": 1,
+     "extra": {
+      "date": "2026-04-16"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "aopwiki-rdf",
+     "value": 2,
+     "period": "2019"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "aopwiki-rdf",
+     "value": 3,
+     "period": "2020"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "aopwiki-rdf",
+     "value": 7,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "aopwiki-rdf",
+     "value": 1,
+     "extra": {
+      "date": "2026-07-27"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "biodatafuse",
+     "value": 2,
+     "period": "2023"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "biodatafuse",
+     "value": 1,
+     "period": "2025"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "biodatafuse",
+     "value": 1,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "biodatafuse",
+     "value": 1,
+     "extra": {
+      "date": "2026-02-03"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 3,
+     "period": "2010"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 1,
+     "period": "2011"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 13,
+     "period": "2012"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 7,
+     "period": "2013"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 12,
+     "period": "2014"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 26,
+     "period": "2015"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 6,
+     "period": "2016"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 5,
+     "period": "2017"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 1,
+     "period": "2018"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 8,
+     "period": "2019"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 10,
+     "period": "2020"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 16,
+     "period": "2021"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 10,
+     "period": "2022"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 18,
+     "period": "2023"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 12,
+     "period": "2024"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 2,
+     "period": "2025"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "bridgedb",
+     "value": 7,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "bridgedb",
+     "value": 1,
+     "extra": {
+      "date": "2026-08-03"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "molaop",
+     "value": 14,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "molaop",
+     "value": 1,
+     "extra": {
+      "date": "2026-08-21"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "pathvisio",
+     "value": 3,
+     "period": "2016"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "pathvisio",
+     "value": 1,
+     "period": "2018"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "pathvisio",
+     "value": 1,
+     "period": "2024"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "pathvisio",
+     "value": 1,
+     "extra": {
+      "date": "2024-10-03"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "qsprpred",
+     "value": 1,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "qsprpred",
+     "value": 1,
+     "extra": {
+      "date": "2026-06-24"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "robot",
+     "value": 1,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "robot",
+     "value": 1,
+     "extra": {
+      "date": "2026-03-24"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "tta",
+     "value": 100,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "tta",
+     "value": 1,
+     "extra": {
+      "date": "2026-08-10"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "vhp",
+     "value": 2,
+     "period": "2025"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "vhp",
+     "value": 17,
+     "period": "2026"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "vhp",
+     "value": 1,
+     "extra": {
+      "date": "2026-08-31"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "wikipathways",
+     "value": 1,
+     "period": "2022"
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "wikipathways",
+     "value": 1,
+     "period": "2024"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "wikipathways",
+     "value": 1,
+     "extra": {
+      "date": "2024-09-23"
+     }
+    },
+    {
+     "metric": "releases_by_year",
+     "entity": "xploreaop",
+     "value": 1,
+     "period": "2023"
+    },
+    {
+     "metric": "latest_release",
+     "entity": "xploreaop",
+     "value": 1,
+     "extra": {
+      "date": "2023-10-07"
+     }
+    },
+    {
+     "metric": "repos_active",
+     "entity": "aop-builder",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "aopsuite",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "aopwiki-rdf",
+     "value": 4
+    },
+    {
+     "metric": "repos_active",
+     "entity": "arrayanalysis",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "biodatafuse",
+     "value": 2
+    },
+    {
+     "metric": "repos_active",
+     "entity": "bridgedb",
+     "value": 5
+    },
+    {
+     "metric": "repos_active",
+     "entity": "llemy",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "mct8-dock",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "molaop",
+     "value": 2
+    },
+    {
+     "metric": "repos_active",
+     "entity": "oqt-assistant",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "qaop",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "qsprpred",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "r-odaf",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "robot",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "tta",
+     "value": 1
+    },
+    {
+     "metric": "repos_active",
+     "entity": "vhp",
+     "value": 4
+    },
+    {
+     "metric": "repos_active",
+     "entity": "wikipathways",
+     "value": 3
+    }
+   ]
+  },
+  "rsd": {
+   "status": "ok",
+   "fetched_at": "2026-09-05T07:30:00+00:00",
+   "collector_version": "1",
+   "record_count": 4,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "records": [
+    {
+     "metric": "rsd_mentions",
+     "entity": "rWikiPathways",
+     "value": 6.0,
+     "extra": {
+      "slug": "rwikipathways",
+      "project": "wikipathways",
+      "contributors": 2
+     }
+    },
+    {
+     "metric": "rsd_mentions",
+     "entity": "PathVisio",
+     "value": 2.0,
+     "extra": {
+      "slug": "pathvisio",
+      "project": "pathvisio",
+      "contributors": 9
+     }
+    },
+    {
+     "metric": "rsd_mentions",
+     "entity": "Virtual Human Platform",
+     "value": 10.0,
+     "extra": {
+      "slug": "virtual-human-platform",
+      "project": "vhp",
+      "contributors": null
+     }
+    },
+    {
+     "metric": "rsd_mentions",
+     "entity": "BridgeDb Java",
+     "value": 237.0,
+     "extra": {
+      "slug": "bridgedb-java",
+      "project": "bridgedb",
+      "contributors": 18
+     }
+    }
+   ]
+  },
+  "wikipathways": {
+   "status": "skipped",
+   "fetched_at": "2026-09-05T07:30:01+00:00",
+   "collector_version": "1",
+   "record_count": 0,
+   "expected": null,
+   "found": null,
+   "unit": "records",
+   "records": []
+  }
+ }
+}
