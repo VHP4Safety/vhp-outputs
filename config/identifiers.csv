@@ -55,7 +55,7 @@ pathvisio,paper,10.1371/journal.pcbi.1004085,"PathVisio 3, PLOS Comp Biol 2015"
 arrayanalysis,repo,arrayanalysis/ArrayAnalysis_Shiny,
 arrayanalysis,paper,10.1093/nar/gkt293,"ArrayAnalysis.org, NAR 2013"
 aop-builder,repo,vhp4safety/aop-builder,
-aopsuite,repo,vhp4safety/aop-app,
+aopsuite,repo,VHP4Safety/AOP-Suite,
 oqt-assistant,repo,vhp4safety/O-QT-OECD-QSAR-Toolbox-AI-assistant,
 oqt-assistant,paper,10.1016/j.comtox.2025.100395,"O-QT assistant, Computational Toxicology 2026"
 mct8-dock,repo,vhp4safety/MCT8-docking,
